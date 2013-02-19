@@ -1,3 +1,5 @@
+# This is a place to define your nodes
+
 node base {
 	include sudo, ssh
 	user { "cutter":
